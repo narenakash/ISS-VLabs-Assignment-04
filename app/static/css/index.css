@@ -1,0 +1,11 @@
+table{
+    border: 1vw;
+    color: green;
+    margin: 1vw;
+}
+td,tr{
+    padding: 1vw;   
+}
+#submit,#f{
+    margin-left: 10vw;   
+}
