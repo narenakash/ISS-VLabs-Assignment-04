@@ -45,8 +45,9 @@ The documented version of app.py is documented_app.py.
 **Developers**
 
 This project has been developed by:
-1. Koushik Vishwanadha - 2018101109
-2. Naren Akash, R J    - 2018111020
+1. Naren Akash, R J    - 2018111020
+2. Koushik Vishwanadha - 2018101109
+(Equal Contribution)
 
 *International Institute of Information Technology, Hyderabad* as a part of CS2.206 ISS Assignment.
 
